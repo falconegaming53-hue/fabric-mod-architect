@@ -18,3 +18,4 @@ Automatic Fabric Mod Maker for Minecraft 1.21.4
 - Java JDK 21
 - `pip install requests`
 - Minecraft Java Edition (to test mods)
+dest: ./mods
